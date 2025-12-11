@@ -1,9 +1,9 @@
 Proyecto Final – Introducción a la Ingeniería en Software
 
 Universidad Autónoma de la Ciudad de México (UACM)
-Profesor(a): Diana Aurora Cruz
 
-👤 Datos del alumno
+
+ Datos del alumno
 
 Nombre: Kevin Yohel Rosas Hernández
 
